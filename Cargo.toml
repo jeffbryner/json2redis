@@ -1,0 +1,7 @@
+[package]
+authors = ["Jeff Bryner <jeff@jeffbryner.com>"]
+name = "json2redis"
+version = "0.1.0"
+
+[dependencies]
+redis = "0.8.0"
